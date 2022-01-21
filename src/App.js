@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import { GiphySearch } from './components/GiphySeach'
+import { GiphySearch } from './components/GiphySearch'
 import { Box, ThemeProvider } from '@mui/system'
 
 export default function App () {
